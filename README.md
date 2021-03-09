@@ -1,2 +1,2 @@
-# project1
-just another repositiryl
+# Address_Collection_Routing 
+I use this project for inputting requested addresses I need to go collect for 911 putposes. After these points are identified I determine the optimized routes for collecting the addresses so I am not sitting on the side of the road trying to figure out how to get to the next point. I outputs an html file that I cn use to follow on my laptop with the least amount of driving as possible. This repository contains my Jupyter Notebook used to develop this project.
